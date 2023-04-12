@@ -1,0 +1,14 @@
+1) 91
+
+3)
+    a) 9
+    b) 128
+    c) 49
+    d) 100
+    e) 13
+    f) 200
+
+4) Usando as velocidades e distância fornecidas, tem-se que o carro levará aproximadamente
+   0,9 horas para chegar ao ponto de encontro, percorrendo uma distância de 100 km, 
+   enquanto o caminhão levará aproximadamente 1,4 horas, percorrendo 113,36 km (incluindo o tempo extra dos pedágios). 
+   Portanto, o caminhão estará mais próximo de Ribeirão Preto no momento do encontro.
